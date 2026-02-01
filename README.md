@@ -12,9 +12,6 @@ Hi! I'm Saksham Raj, an AI/ML enthusiast passionate about learning and building 
 ![](https://nirzak-streak-stats.vercel.app/?user=rajsaksham-32&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsaksham-32&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rajsaksham-32&icon=0&color=0)](https://visitcount.itsvg.in)
 
